@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body{
+    background-color: black;
+} */
+
+.boxes{
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(4,150px);
+    width: max-content;
+    gap: 20px;
+}
+
+.box{
+    height: 150px;
+    background-color: rgba(150, 154, 152, 0.17);
+    border-radius: 10px;
+    /* border: 2px solid black; */
+    box-shadow: 0px 5px 15px black;
+} 
