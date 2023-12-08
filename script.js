@@ -55,8 +55,7 @@ function buildBoxes(color){
             waitingTime = false;
             activeBox = null;
         },1000)
-    })
-    
+    })    
     return element;
 }
 
