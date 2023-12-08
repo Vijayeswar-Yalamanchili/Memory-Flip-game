@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-/* body{
-    background-color: black;
-} */
+h1{
+    text-align: center;
+}
 
 .boxes{
     margin: 20px auto;
